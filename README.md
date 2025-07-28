@@ -1,4 +1,3 @@
-# Library-Management-System
 # 📚 Library Management System (Java)
 
 A simple Java-based Library Management System that helps librarians manage books, members, and transactions like issuing and returning books. This project is suitable for beginner to intermediate Java learners and can be used for academic or personal use.
